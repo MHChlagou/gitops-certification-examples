@@ -15,3 +15,4 @@ spec:
       namespace: default
     type: Opaque
 
+// kubectl argo rollouts get rollout simple-rollout --watch
